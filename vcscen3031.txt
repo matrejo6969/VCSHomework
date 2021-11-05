@@ -1,1 +1,8 @@
 git clone https://github.com/matrejo6969/VCSHomework.git
+
+Staging 
+git add vcscen3031.txt
+Commit 
+git commit "git clone https://github.com/matrejo6969/VCSHomework.git"
+Push
+git push origin master
