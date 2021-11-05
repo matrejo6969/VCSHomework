@@ -1,0 +1,3 @@
+To fork a repository you must pull the files onto your own local repository using git pull. 
+This will allow you to have a seperate save that does not update the remote repository unless needed.
+The user can then merge the code into the remote through a simple staging and commit command process.
